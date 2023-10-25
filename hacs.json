@@ -2,5 +2,6 @@
     "name": "Ulm (SWU) Transport Card",
     "content_in_root": true,
     "filename": "ha-ulm-transport-card.js",
-    "country": "DE"
+    "country": "DE",
+    "render_readme": true
   }
